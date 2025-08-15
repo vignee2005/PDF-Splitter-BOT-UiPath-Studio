@@ -22,6 +22,3 @@ This project is an automated **PDF document classification and splitting bot** b
 * Accounting & Finance document processing.
 * Medical and healthcare bill management.
 * Bulk document archiving and classification.
-
-If you want, I can also make a **shorter GitHub-friendly one-liner summary** for the repository’s main page and a **more detailed README.md** with screenshots and workflow diagrams.
-Do you want me to create that as well?
